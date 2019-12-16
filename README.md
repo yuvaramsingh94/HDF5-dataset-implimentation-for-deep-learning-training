@@ -10,3 +10,8 @@
 3. Read and using the HDF5 data and training a model.
 
 ##### What is HDF5 format?
+
+
+
+TODO : finish README
+TODO : tensorflow basedataiterator to boost the speed of loading
